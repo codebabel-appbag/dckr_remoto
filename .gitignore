@@ -1,0 +1,7 @@
+# basic .gitignore
+
+# folders
+docs/
+
+# files
+.log
